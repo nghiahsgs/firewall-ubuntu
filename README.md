@@ -11,6 +11,8 @@ sudo ufw status
 ## Enable firewall
 ```
 sudo ufw enable
+sudo ufw allow 80
+sudo ufw allow 443
 ```
 
 ## Disable firewall
