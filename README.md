@@ -19,3 +19,12 @@ sudo ufw allow 443
 ```
 sudo ufw disable
 ```
+
+
+
+
+centos
+```
+sudo systemctl stop firewalld.
+sudo systemctl status firewalld
+```
