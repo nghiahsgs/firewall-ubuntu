@@ -23,7 +23,7 @@ sudo ufw disable
 
 
 
-centos
+## centos
 ```
 sudo systemctl stop firewalld.
 sudo systemctl status firewalld
