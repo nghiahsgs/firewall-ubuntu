@@ -1,6 +1,9 @@
 # firewall-ubuntu
 firewall ubuntu
 
+```
+ sudo apt install ufw
+```
 
 ## Show firewall status
 ```
