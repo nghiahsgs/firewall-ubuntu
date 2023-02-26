@@ -18,6 +18,11 @@ sudo ufw allow 80
 sudo ufw allow 443
 ```
 
+## Delete rule
+```
+sudo ufw delete allow 80
+```
+
 ## Disable firewall
 ```
 sudo ufw disable
